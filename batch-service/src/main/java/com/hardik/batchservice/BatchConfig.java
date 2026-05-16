@@ -34,7 +34,7 @@ public class BatchConfig {
                         fieldSet.readString("acceptance"),
                         fieldSet.readString("difficulty")
                 ))
-                .linesToSkip(1)
+                .linesToSkip(1402)
                 .build();
     }
 
